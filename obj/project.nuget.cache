@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kGvEfsLBPE5G2x1zQpMfX7rXSERj5scPjsQ7d8WAXNcvaHHzGhFDDkrzuHkZ/7Jexpwsj285HPHCjVHxC0eEcw==",
+  "success": true,
+  "projectFilePath": "g:\\Mark\\Documents\\DOCUMENTS\\HomeFiles\\Development\\AwsMeteringEstimator\\AwsMeteringEstimator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blash\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
